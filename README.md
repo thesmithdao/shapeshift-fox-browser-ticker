@@ -7,11 +7,12 @@ Você pode conferir o valor do Token FOX em tempo real com a nova extensão dese
 ![](https://i.imgur.com/KqziP2Y.png)
 
 
-| Chrome/Brave | Mozilla (uploading 80%)|
-| -------- |----|
-| [![](https://i0.wp.com/www.jltutors.net/wp-content/uploads/2019/11/dowload-button-2.png?fit=800%2C265&ssl=1)](https://chrome.google.com/webstore/detail/shapeshift-fox-tokens/eollgmoiloddejjiodjnchmgbnkicljl/related)|[![](https://i0.wp.com/www.jltutors.net/wp-content/uploads/2019/11/dowload-button-2.png?fit=800%2C265&ssl=1)](https://addons.mozilla.org/en-US/developers/addon/shapeshift-fox-tokens/edit)
+| Chrome/Brave | Mozilla (uploading 80%)|Github|
+| -------- |----|----|
+| [![](https://i0.wp.com/www.jltutors.net/wp-content/uploads/2019/11/dowload-button-2.png?fit=800%2C265&ssl=1)](https://chrome.google.com/webstore/detail/shapeshift-fox-tokens/eollgmoiloddejjiodjnchmgbnkicljl/related)|[![](https://i0.wp.com/www.jltutors.net/wp-content/uploads/2019/11/dowload-button-2.png?fit=800%2C265&ssl=1)](https://addons.mozilla.org/en-US/developers/addon/shapeshift-fox-tokens/edit)|[![](https://i.imgur.com/TWdk1lW.png)](https://github.com/VladHZC/shapeshift-fox-browser-ticker)
 
 FOX é um token ERC-20 (em Ethereum) criado pela ShapeShift que serve como o token de governança para a ShapeShift DAO, os detentores de tokens FOX podem votar em propostas relacionadas à operação e tesouraria da organização. Este token é poderoso e abre portas para o universo DeFi. :raised_hands: 
+
 
 ## Saiba mais sobre a ShapeShift DAO
 
